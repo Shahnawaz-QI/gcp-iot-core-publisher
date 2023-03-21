@@ -1,6 +1,6 @@
 ﻿# GCP IoT Core Publisher
 
-This app publishes samples data to GCP IoT Core topic over MQTT protocol. The sample codes listed in GCP documentation page lacks `.NET / C#` example.
+This app publishes sample data to GCP IoT Core topic over MQTT protocol. The sample codes listed in GCP documentation page lacks `.NET / C#` example.
 
 ### Pre-requisites
 
