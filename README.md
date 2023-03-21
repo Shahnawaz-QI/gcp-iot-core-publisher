@@ -7,10 +7,10 @@ This app publishes sample data to GCP IoT Core topic over MQTT protocol. The sam
 - `.NET 7` SDK.
 - Visual Studio 2022 v 17.5.2+ / VS Code with OmniSharp extension / JetBrains RIDER.
 - Google Cloud Platform account with IoT Core enabled.
-- GCP related [requrements](https://cloud.google.com/iot/docs/requirements).
+- GCP related [requirements](https://cloud.google.com/iot/docs/requirements).
 - [OpenSSL](https://github.com/openssl/openssl) tool to generate `RSA` **public-private key** pair for device authentication in GCP.
 
-### Setup in Google Cloud Platform:
+### Initial Setup in Google Cloud Platform:
 
 - Activate IoT Core service in GCP.
 - Create a device registry with `MQTT` protocol support.
